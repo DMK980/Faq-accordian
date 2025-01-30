@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/DMK980/Faq-accordian)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://faq-accordian-ovia.vercel.app/)
 
 ## My process
 
